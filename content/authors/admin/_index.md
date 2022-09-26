@@ -65,4 +65,3 @@ highlight_name: true
 I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management. My primary research interests include the role of accounting information between trade partners, disclosure, intangibles and innovation. I earned my Masters degree in Finance (with Distinction) from the London School of Economics in 2017 and my Bachelors degree in Commerce (with Honors) from the Shri Ram College of Commerce in India in 2014. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India from 2017 to 2019. I am expected to graduate from the Ph.D. program at UCLA in 2024. 
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
