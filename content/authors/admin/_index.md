@@ -56,7 +56,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gr(if Grenabled in Config)
-email: ''
+email: muskan.chawla.phd@anderson.ucla.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
