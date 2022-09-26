@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Teaching
     url: '#posts'
-    weight: 20
+    weight: 70
   - name: Experience
     url: '#posts'
     weight: 30
