@@ -37,4 +37,4 @@ url_video: ''
 # slides: example
 ---
  
-Spring 2020 - NBA 5090 Advanced FSA <br /> Summer 2019                                      - NCC 5000 Financial Accounting <br /> Summer 2019 - NCCB 5000 Financial Accounting <br /> Fal 2019     - NCCW 5000 Financial Accounting 
+Summer 2022 - Financial Accounting MBA Core Course <br /> Winter 2022 - Financial Accounting MBA Core Course <br /> Winter 2022 - Financial Accounting MBA Core Course <br /> Summer 2020 - Financial Accounting MBA Core Course 
