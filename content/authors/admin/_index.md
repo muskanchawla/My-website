@@ -11,7 +11,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: UCLA
-    url: [https://www.anderson.ucla.edu/](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/muskan-chawla)
+    url: https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/muskan-chawla
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management.
