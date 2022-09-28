@@ -37,18 +37,16 @@ Winter 2022 - Financial Accounting Full-time Executive MBA Core Course <br />
 Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     
 
-  - title: Research Associate
-    company: Reserve Bank of India (CAFRAL)
+  - company: Reserve Bank of India (CAFRAL)
     company_url: ''
     company_logo: org-x
     location: India
     description: "
-    **Research Associate**
-    date_start: '2017-09-01'
-    date_end: '2019-05-31'
-    **Summer Intern**
-    date_start: '2017-09-01'
-    date_end: '2019-05-31'
+    **Research Associate** <br />
+    CAFRAL  2017-2019
+    **Summer Intern** <br />
+    Fiancial Markets Risk Department Summer 2015
+    "
    
 
 design:
