@@ -50,9 +50,9 @@ Winter 2021  "
     date_end: '2019-05-31'
     description: "
     **Research Associate** <br />
-    2017 to 2019 - CAFRAL   <br />
+    2017 to 2019 - Centre For Advanced Financial Research And Learning (CAFRAL)   <br />
     **Summer Intern** <br />
-   Summer 2015 - Fiancial Markets Risk Department
+   Summer 2015 - Fiancial Markets Risk Department (FMRD)
     "
    
 
