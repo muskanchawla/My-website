@@ -47,6 +47,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/](https://www.linkedin.com/in/muskan-chawla-42b22ba5/
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:muskan.chawla.phd@anderson.ucla.edu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -61,7 +64,7 @@ email: muskan.chawla.phd@anderson.ucla.edu
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+![UCLA](logo2.svg)
 I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management. My primary research interests include the role of accounting information between trade partners, disclosure, intangibles and innovation. I earned my Masters degree in Finance (with Distinction) from the London School of Economics in 2017 and my Bachelors degree in Commerce (with Honors) from the Shri Ram College of Commerce in India in 2014. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India from 2017 to 2019. I am expected to graduate from the Ph.D. program at UCLA in 2024. 
 
 
