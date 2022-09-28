@@ -37,7 +37,7 @@ Winter 2022 - Financial Accounting Full-time Executive MBA Core Course <br />
 Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     
 
-  - title: 
+  - title: ''
     company: Reserve Bank of India (CAFRAL)
     company_url: ''
     company_logo: org-x
