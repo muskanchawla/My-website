@@ -38,7 +38,7 @@ Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     
 
   - title: ''
-    company: Reserve Bank of India (CAFRAL)
+    company: Reserve Bank of India 
     company_url: ''
     company_logo: org-x
     location: India
@@ -46,9 +46,9 @@ Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     date_end: '2019-05-31'
     description: "
     **Research Associate** <br />
-    CAFRAL  2017-2019 <br />
+    2017 to 2019 - CAFRAL   <br />
     **Summer Intern** <br />
-    Fiancial Markets Risk Department Summer 2015
+   Summer 2015 - Fiancial Markets Risk Department
     "
    
 
