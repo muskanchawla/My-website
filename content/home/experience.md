@@ -46,7 +46,7 @@ Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     date_end: '2019-05-31'
     description: "
     **Research Associate** <br />
-    CAFRAL  2017-2019
+    CAFRAL  2017-2019 <br />
     **Summer Intern** <br />
     Fiancial Markets Risk Department Summer 2015
     "
