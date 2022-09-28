@@ -29,7 +29,9 @@ experience:
     location: California
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
+    description: 
+*Teaching Assistant* <br />
+Summer 2022 - Financial Accounting MBA Core Course <br /> Winter 2022 - Financial Accounting MBA Core Course <br /> Winter 2022 - Financial Accounting MBA Core Course <br /> Summer 2020 - Financial Accounting MBA Core Course 
     
 
   - title: Research Associate
