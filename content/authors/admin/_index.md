@@ -29,7 +29,7 @@ education:
   courses:
     - course: Ph.D. in Management
       institution: UCLA Anderson School of Management
-      year: Expcetd (2024)
+      year: Expected (2024)
     - course: MSc Finance
       institution: London School of Economics, UK
       year: 2017
