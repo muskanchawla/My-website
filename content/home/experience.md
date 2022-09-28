@@ -42,11 +42,11 @@ Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     company_url: ''
     company_logo: org-x
     location: India
+    description: "
+    **Research Associate**
     date_start: '2017-09-01'
     date_end: '2019-05-31'
-    title: Summer Intern
-    company: Reserve Bank of India 
-    location: India
+    **Summer Intern**
     date_start: '2017-09-01'
     date_end: '2019-05-31'
    
