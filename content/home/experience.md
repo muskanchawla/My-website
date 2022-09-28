@@ -30,26 +30,23 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: " 
-*Teaching Assistant* <br />
-Financial Accounting MBA Core Course Summer 2022 <br />
-Winter 2022 - Financial Accounting MBA Core Course <br />
-Winter 2022 - Financial Accounting MBA Core Course <br />
-Summer 2020 - Financial Accounting MBA Core Course "
+**Teaching Assistant** <br />
+Summer 2022 - Financial Accounting Full-time MBA Core Course  <br />
+Winter 2022 - Financial Accounting Executive MBA Core Course <br />
+Winter 2022 - Financial Accounting Full-time Executive MBA Core Course <br />
+Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     
 
   - title: Research Associate
     company: Reserve Bank of India (CAFRAL)
     company_url: ''
     company_logo: org-x
-    location: California
+    location: India
     date_start: '2017-09-01'
     date_end: '2019-05-31'
-    
-  - title: Summer Intern
+    title: Summer Intern
     company: Reserve Bank of India 
-    company_url: ''
-    company_logo: org-x
-    location: California
+    location: India
     date_start: '2017-09-01'
     date_end: '2019-05-31'
    
