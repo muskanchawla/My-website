@@ -42,7 +42,8 @@ Summer 2020 - Financial Accounting FUll-time MBA Core Course "
     company_url: ''
     company_logo: org-x
     location: India
-    date_start: ''
+    date_start: '2017-09-01'
+    date_end: '2019-05-31'
     description: "
     **Research Associate** <br />
     CAFRAL  2017-2019
