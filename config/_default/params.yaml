@@ -44,9 +44,9 @@ footer:
   copyright:
     notice: '© {year} Muskan Chawla'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -86,7 +86,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider:
     algolia:
       app_id: ''
       api_key: ''
