@@ -51,6 +51,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:muskan.chawla.phd@anderson.ucla.edu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=XE-629wAAAAJ&hl=en&oi=ao
+  - icon: ssrn
+    icon_pack: ai
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2700616
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
