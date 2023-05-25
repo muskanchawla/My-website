@@ -18,7 +18,7 @@ image:
 #   - name: Figure
 #     url: https://www.ochaniashish.com/project/crypto/
 #   - name: SSRN
-\    url: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128064](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384704)
+\    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384704
 #   - name: Duke FinReg Blog
 #     url: https://sites.duke.edu/thefinregblog/2022/07/29/cryptocurrency-disruption-and-investor-reaction-to-earnings-announcements/
 
