@@ -8,7 +8,7 @@ summary: (*Dissertation*) </br>  <DIV align="justify"> This paper examines the r
 date: '2022-09-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384704'
 
 image: 
   caption: Google Search Volume
