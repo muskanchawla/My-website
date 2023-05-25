@@ -7,7 +7,7 @@ summary: (with *Jessica Kim-Gina*) </br>  <DIV align="justify"> This paper exami
 # date: '2022-09-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
- external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443923'
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443923'
 
 # image: 
 #  caption: Google Search Volume
