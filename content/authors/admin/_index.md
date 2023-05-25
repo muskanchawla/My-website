@@ -19,9 +19,10 @@ bio: I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School o
 # Interests to show in About widget
 interests:
   - Disclosure
-  - Supply Chain
   - Innovation
   - Intangibles
+  - Supply Chain
+  - Healthcare, Pharma
   - M&A
 
 # Education to show in About widget
