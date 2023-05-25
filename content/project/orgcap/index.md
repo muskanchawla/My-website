@@ -7,7 +7,7 @@ summary: (with *Henry Friedman* and *Jessica Kim-Gina*) </br>  <DIV align="justi
 # date: '2022-09-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ''
+external_link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456404'
 
 # image: 
 #  caption: Google Search Volume
@@ -17,7 +17,7 @@ summary: (with *Henry Friedman* and *Jessica Kim-Gina*) </br>  <DIV align="justi
 #   - name: Figure
 #     url: https://www.ochaniashish.com/project/crypto/
 #   - name: SSRN
-      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456404
+\    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456404
 #   - name: Duke FinReg Blog
 #     url: https://sites.duke.edu/thefinregblog/2022/07/29/cryptocurrency-disruption-and-investor-reaction-to-earnings-announcements/
 
