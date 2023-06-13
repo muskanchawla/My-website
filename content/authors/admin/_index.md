@@ -73,7 +73,7 @@ email: muskan.chawla.phd@anderson.ucla.edu
 highlight_name: true
 ---
 ![UCLA](logo2.svg)
-<DIV align="justify"> I am a rising fifth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management. My primary research interests include the role of corporate disclosures in facilitating innovation and between trade partners. I am also interested in the intangibles and M&A space. I am expected to graduate from the Ph.D. program at UCLA in 2024. 
+<DIV align="justify"> I am a rising fifth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management. I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and M&A space. I am expected to graduate from the Ph.D. program at UCLA in 2024. 
   
 I earned my Masters degree in Finance (with Distinction) from the London School of Economics in 2017 and my Bachelors degree in Commerce (with Honors) from the Shri Ram College of Commerce in India in 2014. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India from 2017 to 2019. 
 
