@@ -6,7 +6,7 @@ title: Muskan Chawla
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor (Accounting)
+role: Assistant Professor of Accounting
 
 # Organizations/Affiliations to show in About widget
 organizations:
