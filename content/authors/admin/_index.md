@@ -11,7 +11,7 @@ role: Assistant Professor (Accounting)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of British Columbia, Sauder School of Business
-   - url:
+  - URL: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management.
