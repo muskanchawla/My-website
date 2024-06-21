@@ -73,8 +73,8 @@ email: muskan.chawla.phd@anderson.ucla.edu
 highlight_name: true
 ---
 ![UCLA](logo2.svg)
-<DIV align="justify"> Hello! I am an incoming Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia.  I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. 
-
+<DIV align="justify"> Hello! I am an incoming Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia.  I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
+</br>
 I completed my PhD in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Masters degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelors degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India. </DIV>
 
 
