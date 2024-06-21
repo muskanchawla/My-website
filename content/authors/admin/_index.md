@@ -6,10 +6,11 @@ title: Muskan Chawla
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Accounting
+role: Assistant Professor (Accounting)
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: University of British Columbia, Sauder School of Business
   - name: UCLA Anderson School of Management
     url: https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/muskan-chawla
 
