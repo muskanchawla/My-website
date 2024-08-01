@@ -8,14 +8,6 @@ superuser: true
 # Role/position/tagline
 role: Assistant Professor of Accounting
 
-# Organizations/Affiliations to show in About widget
-# organizations:
- # - name: University of British Columbia, Sauder School of Business
-  #  URL: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: I am a fourth-year Accounting Ph.D. Candidate at the UCLA Anderson School of Management.
-
 # Interests to show in About widget
 interests:
   - Disclosure
@@ -24,22 +16,6 @@ interests:
   - Supply Chain
   - Healthcare, Pharma
   - M&A
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Management
-      institution: UCLA Anderson School of Management
-      year: Expected (2024)
-    - course: MSc Finance
-      institution: London School of Economics, UK
-      year: 2017
-    - course: MSc Financial Economics
-      institution: Gokhale Institute of Politics and Economics, India
-      year: 2016
-    - course: BComm (Hon)
-      institution: Shri Ram College of Commerce, India
-      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,7 +27,7 @@ social:
     link: https://www.linkedin.com/](https://www.linkedin.com/in/muskan-chawla-42b22ba5/
   - icon: envelope
     icon_pack: fas
-    link: mailto:muskan.chawla.phd@anderson.ucla.edu
+    link: mailto:muskan.chawla@sauder.ubc.ca
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XE-629wAAAAJ&hl=en&oi=ao
@@ -67,13 +43,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gr(if Grenabled in Config)
-email: muskan.chawla.phd@anderson.ucla.edu
+email: muskan.chawla@sauder.ubc.ca
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<DIV align="justify"> Hello! I am an incoming Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia.  I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
+<DIV align="justify"> Hello! I am an Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia.  I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
 </br>
-I completed my Ph.D. in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Master's degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelor's degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India. </DIV>
+<DIV align="justify"> I completed my Ph.D. in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Master's degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelor's degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India. </DIV>
 
 
