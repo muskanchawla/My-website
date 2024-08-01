@@ -35,21 +35,13 @@ social:
     icon_pack: ai
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2700616
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
 
 # Enter email to display Gr(if Grenabled in Config)
 email: muskan.chawla@sauder.ubc.ca
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 ---
 <DIV align="justify"> Hello! I am an Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia.  I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
 </br>
-<DIV align="justify"> I completed my Ph.D. in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Master's degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelor's degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Prior to joining UCLA, I worked as a full-time research assistant at the Reserve Bank of India. </DIV>
+<DIV align="justify"> I completed my Ph.D. in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Master's degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelor's degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Before joining UCLA, I worked as a full-time research assistant at CAFRAL, Reserve Bank of India. </DIV>
 
 
