@@ -6,7 +6,7 @@ title: Muskan Chawla
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Accounting
+role: Assistant Professor (Accounting and Information Systems)
 
 # Interests to show in About widget
 interests:
@@ -41,7 +41,7 @@ email: muskan.chawla@sauder.ubc.ca
 
 ---
 ![UBC](UBCSauder.jpg)
-<DIV align="justify"> Hello! I am an Assistant Professor in Accounting at the Sauder School of Business, University of British Columbia. I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
+<DIV align="justify"> Hello! I am an Assistant Professor in Accounting and Information Systems at the Sauder School of Business, University of British Columbia. I am primarily interested in understanding how corporate disclosures impact innovation and influence supply chains. I am also interested in the intangibles and pharmaceuticals space. </DIV>
 </br>
 <DIV align="justify"> I completed my Ph.D. in Accounting from the University of California, Los Angeles (UCLA), Anderson School of Management. I earned my Masters degree in Finance (with Distinction) from the London School of Economics (LSE) and my Bachelors degree in Commerce (with Honors) from the Shri Ram College of Commerce (SRCC) in India. Before joining UCLA, I worked as a full-time research assistant at CAFRAL, Reserve Bank of India. </DIV>
 
