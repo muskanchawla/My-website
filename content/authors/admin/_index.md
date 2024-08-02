@@ -9,13 +9,7 @@ superuser: true
 role: Assistant Professor (Accounting and Information Systems)
 
 # Interests to show in About widget
-interests:
-  - Disclosure
-  - Innovation
-  - Intangibles
-  - Supply Chain
-  - Healthcare, Pharma
-  - M&A
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
