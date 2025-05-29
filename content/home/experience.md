@@ -42,7 +42,7 @@ Fall 2024 - Introduction to Financial Accounting  <br />
     company_logo: org-gc
     location: California
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2025-03-31'
     description: " 
 **Teaching Assistant** <br />
 Winter 2024 - Financial Accounting Executive MBA Core Course <br />
