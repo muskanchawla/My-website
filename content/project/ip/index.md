@@ -4,7 +4,7 @@ title: "End of Firms’ Intellectual Property (IP) Protection and Voluntary Disc
 authors:
   - Muskan Chawla
   - Luminita Enache
-  - Ashish Ochai
+  - Ashish Ochani
 
 summary: >
   This paper examines how the expiration of a firm’s intellectual property protection influences its voluntary disclosure strategy.
