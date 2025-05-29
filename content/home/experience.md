@@ -26,7 +26,7 @@ experience:
   - title: Assistant Professor (Accounting and Information Systems)
     company: UBC Sauder School of Business
     company_url: ''
-    company_logo: org-gc
+    company_logo: ubc-logo
     location: Vancouver
     date_start: '2024-07-01'
     date_end: ''
