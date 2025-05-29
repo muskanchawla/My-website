@@ -1,6 +1,6 @@
 ---
 title: "Employee Satisfaction, Knowledge-Intensive Firms, and Innovation"
-summary: "Knowledge-intensive firms rely on employees to generate innovations that drive firm
+summary: (with *Henry Friedman* and *Yuqing Zhou*) </br>  <DIV align="justify"> "Knowledge-intensive firms rely on employees to generate innovations that drive firm
 performance, and satisfied employees tend to be more productive. So, we would expect
 a positive association between firms’ knowledge-intensity and employee satisfaction.
 However, we find empirically that knowledge-intensity is negatively associated with
