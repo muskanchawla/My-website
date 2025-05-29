@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Assistant Professor (Accounting and Information Systems)
+    company: UBC Sauder School of Business
+    company_url: ''
+    company_logo: org-gc
+    location: Vancouver
+    date_start: '2024-07-01'
+    date_end: ''
+    description: " 
+**Instructort** <br />
+Fall 2024 - Introduction to Financial Accounting  <br />
+ <br />
+  "
+    
   - title: Ph.D. Management (Accounting)
     company: UCLA Anderson School of Management
     company_url: ''
@@ -31,6 +45,7 @@ experience:
     date_end: ''
     description: " 
 **Teaching Assistant** <br />
+Winter 2024 - Financial Accounting Executive MBA Core Course <br />
 Summer 2022 - Financial Accounting Full-time MBA Core Course  <br />
 Winter 2022 - Financial Accounting Executive MBA Core Course <br />
 Winter 2022 - Financial Accounting Full-time Executive MBA Core Course <br />
